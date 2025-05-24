@@ -1,4 +1,4 @@
-import numpy as np
+
 
 #there was an typo, erased it
 
@@ -6,7 +6,7 @@ import numpy as np
 
 print("Hello world")
 
-#this is the second line 
+#this is the Second Line
 print("This is third line")
 
 #stress testing at this point lol
